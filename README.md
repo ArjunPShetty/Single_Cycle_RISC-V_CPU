@@ -8,3 +8,7 @@ The register file supports two read ports and one write port, with register x0 p
 The processor is simulated using Vivado, and its functionality is verified by observing waveforms for different instructions. The correct operation of the program counter, control signals, ALU results, and register updates confirms the successful implementation of the processor.
 
 This project helped in gaining a clear understanding of computer architecture concepts, RTL design, and Verilog-based hardware modeling, and it serves as a base for future improvements such as pipelining and performance optimization.
+
+waveform:
+.
+<img width="1575" height="867" alt="single cycle RISC-V CPU" src="https://github.com/user-attachments/assets/97fd4480-c1bc-4848-8808-a0a2987458fc" />
